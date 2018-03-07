@@ -1,0 +1,6 @@
+C:\Users\james.mcternan\Desktop\local\ProfessionalTestingMethods\ShoppingCartDemo-Start\bin\Debug\ShoppingCartDemo.exe.config
+C:\Users\james.mcternan\Desktop\local\ProfessionalTestingMethods\ShoppingCartDemo-Start\bin\Debug\ShoppingCartDemo.exe
+C:\Users\james.mcternan\Desktop\local\ProfessionalTestingMethods\ShoppingCartDemo-Start\bin\Debug\ShoppingCartDemo.pdb
+C:\Users\james.mcternan\Desktop\local\ProfessionalTestingMethods\ShoppingCartDemo-Start\obj\Debug\ShoppingCartDemo.csprojResolveAssemblyReference.cache
+C:\Users\james.mcternan\Desktop\local\ProfessionalTestingMethods\ShoppingCartDemo-Start\obj\Debug\ShoppingCartDemo.exe
+C:\Users\james.mcternan\Desktop\local\ProfessionalTestingMethods\ShoppingCartDemo-Start\obj\Debug\ShoppingCartDemo.pdb
